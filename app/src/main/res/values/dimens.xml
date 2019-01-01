@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="account_horizontal_padding">10dp</dimen>
+    <dimen name="account_vertical_padding">10dp</dimen>
+    <dimen name="account_vertical_margin">10dp</dimen>
+
+    <dimen name="btn_font_L">22sp</dimen>
+    <dimen name="btn_font_M">18sp</dimen>
+    <dimen name="btn_horizontal_padding">5dp</dimen>
+
+    <dimen name="btn_verifyCode_length">150sp</dimen>
+</resources>

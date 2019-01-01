@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="reset">重置</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="get_verifyCode">获取验证码</string>
+    <string name="hint_username">手机号</string>
+    <string name="hint_password">密码</string>
+    <string name="new_password">新的密码</string>
+    <string name="hint_verifyCode">验证码</string>
+    <string name="empty_username">请输入手机号</string>
+    <string name="empty_password">请输入密码</string>
+    <string name="empty_verifyCode">请输入验证码</string>
+    <string name="errorFormat_username">请输入正确格式的手机号</string>
+    <string name="errorFormat_password">密码过长</string>
+    <string name="error_password">密码错误</string>
+    <string name="errorFormat_verifyCode">请输入正确格式的验证码</string>
+    <string name="error_verifyCode">验证码错误</string>
+    <string name="notExist_username">未注册的用户</string>
+    <string name="exist_username">用户已注册</string>
+    <string name="sent">已发送</string>
+    <string name="resend">重新获取验证码</string>
+</resources>

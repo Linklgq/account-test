@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="length_username">11</integer>
+    <integer name="length_password">32</integer>
+    <integer name="length_verifyCode">4</integer>
+</resources>
